@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .Column {
+    width: 45%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .Column h2 {
+    margin-top: 0;
+  }
+  
